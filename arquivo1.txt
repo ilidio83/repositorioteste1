@@ -1,13 +1,21 @@
 Faculdade Uniesp
 Curso:Ciencia da Computação
-Disciplina: Topicos Essenciais em programação
+Disciplina: Introdução a programação
 Nome: Ilidio Santana de Souza Neto
 
-Resposta da Lisata de Exercicio
+Resposta da Lista de Exercicio
 
 Questão 01
 
 
 Questão 02 
 
-Questão 03
+
+
+Questão 04
+
+Questão 05
+
+Questão 06
+
+Questão 10
